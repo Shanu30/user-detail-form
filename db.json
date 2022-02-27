@@ -1,0 +1,30 @@
+{
+  "employeedetails": [
+    {
+      "name": "",
+      "age": 0,
+      "address": "",
+      "department": "",
+      "salary": 0,
+      "maritalStatus": false,
+      "image": null,
+      "id": 1
+    },
+    {
+      "name": "gfd",
+      "age": "",
+      "address": "",
+      "department": "",
+      "salary": "0",
+      "maritalStatus": true,
+      "image": "blob:http://localhost:3001/4043229b-328e-41e9-a2ef-9cfc577f4a94",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ]
+}
